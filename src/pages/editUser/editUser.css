@@ -1,0 +1,142 @@
+.editUser {
+  flex: 4;
+  padding: 20px;
+}
+.editUserTitleContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.editUserShowName {
+  font-weight: 600;
+}
+.editUserShowTitle {
+  font-weight: 300;
+}
+.editUserAddButton {
+  width: 80px;
+  border: none;
+  padding: 5px;
+  background-color: teal;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  font-size: 16px;
+  
+}
+.editUserContainer {
+  display: flex;
+  margin-top: 20px;
+}
+.editUserShow {
+  flex: 1;
+  padding: 20px;
+  -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+}
+.editUserUpdate {
+  flex: 2;
+  padding: 20px;
+  -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  margin-left: 20px;
+}
+.editUserShowTop {
+  display: flex;
+}
+.editUserShowImg {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.editUserShowTopTitle {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+.editUserShowBottom {
+  margin-top: 20px;
+}
+.editUserShowInfoTitle {
+  font-size: 14px;
+  font-weight: 600;
+  color: rgb(175, 170, 170);
+}
+.editUserShowInfoContainer {
+  display: flex;
+  align-items: center;
+  margin: 20px 0px;
+  color: #444;
+}
+.editUserShowInfoIcon {
+  font-size: 16px !important;
+}
+.editUserShowInfo {
+  margin-left: 10px;
+}
+.editUserUpdateTitle{
+ font-size: 24px;
+    font-weight: 600;
+}
+.editUserUpdateForm {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.editUserUpdateItem{
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+.editUserUpdateItem>label{
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+.editUserUpdateInput{
+  width: 250px;
+  height: 30px;
+  border: none;
+  border-bottom: 1px solid gray;
+
+}
+.editUserUpdateRight {
+  display: flex;
+  flex-direction: column !important;
+  justify-content: space-between;
+}
+.editUserUpdateUpload {
+  display: flex;
+  align-items: center;
+}
+
+.editUserUpdateImg {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+.editUserUpdateuploadIcon {
+  cursor: pointer;
+}
+.editUserUpdateUpload {
+  display: flex;
+  align-items: center;
+}
+.editUserUpdateButton {
+  background-color: darkblue;
+  border: none;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+
+.link{
+  text-decoration: none;
+  color: inherit;
+}
