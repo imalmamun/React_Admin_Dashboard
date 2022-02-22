@@ -14,3 +14,23 @@ git push -u origin main
 git remote add origin git@github.com:imalmamun/React_Admin_Dashboard.git
 git branch -M main
 git push -u origin main
+
+
+
+----------------------------------------------------------------What I did for the first time to save the project to github:
+
+1. first I initialize git in this project with the command: (git init)
+2. Then I created a repository in github.
+3. Then I staged the folder in native git with the command: (git add .)
+4. Then I checked git status: (git status)
+5. Then I did commit for the first time of this project (git commit -m "first commit of this project")
+
+6. Then I selected the branch name using this command: (git branch -M main")
+7. Then I connected it to the origin using this command: (git remote add origin git@github.com:imalmamun/React_Admin_Dashboard.git)
+8. Then I pushed it using this command: (git push -u origin main)
+
+
+What I did for the second time after updating this project:
+
+
+
