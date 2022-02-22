@@ -31,6 +31,11 @@ git push -u origin main
 
 
 What I did for the second time after updating this project:
+1. I stated the change using this commad: (git add .)
+2. Then I commited the project to the native git using this commad: (git commit -m "second commit of this project")
+3. Then I Pushed it to the remote github using this command: (git push -u origin main)
 
+(That All For Git First to Last)
+-----------------------------------------------------------------------------------
 
 
