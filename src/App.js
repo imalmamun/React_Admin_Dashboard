@@ -17,6 +17,7 @@ function App() {
       <div className="container">
         <Sidebar />
         <Routes>
+        {/* testing */}
           <Route path="/" element={<Home />} />
           <Route path="/users" element={<UserList />} />
           <Route path="/editUser/:userId" element={<EditUser />} />
